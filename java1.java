@@ -1,1 +1,1 @@
-System.out.println("哈哈");
+System.out.print("冲冲冲");
